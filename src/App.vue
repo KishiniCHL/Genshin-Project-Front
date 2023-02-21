@@ -18,9 +18,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
+  
 }
-
 
 
 #navbar{
@@ -28,4 +27,11 @@
   justify-content: center;
 }
 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body{
+  font-family: 'Pacifico', cursive;
+}
 </style>
