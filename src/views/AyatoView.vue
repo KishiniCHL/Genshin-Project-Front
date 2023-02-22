@@ -47,8 +47,8 @@
               colorLighter:"#696BC0",
               colorSecondary:"#CFDEF2",
               colorTertiary:"#7D6BAC",
-              emote1:require("@/assets/Icon_Emoji_065_Hu_Tao_Evil_laugh.webp"),
-              emote2:require("@/assets/Icon_Emoji_070_Hu_Tao_I21.webp"),
+              emote1:require("@/assets/Icon_Emoji_Kamisato_Ayato_1.webp"),
+              emote2:require("@/assets/Icon_Emoji_Kamisato_Ayato_4.webp"),
               logoName:require("@/assets/ayatoLogo.png"),
               region:'inazuma'
           }
